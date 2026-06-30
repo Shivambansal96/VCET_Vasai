@@ -209,14 +209,14 @@
 #     print("Weak Pass")
 
 
-# # # # # # EVEN OR ODD # # # #  # 
+# # # # # EVEN OR ODD # # # #  # 
 
-# num = int(input("Enter a num: "))
+num = int(input("Enter a num: "))
 
-# if(num % 2 == 0):
-#     print(f"{num} is EVEN")
-# else:
-#     print(f"{num} is ODD")
+if(num % 2 == 0):
+    print(f"{num} is EVEN")
+else:
+    print(f"{num} is ODD")
 
 
 # # # # # # MULTIPLE OF 7 # # # #  # 
