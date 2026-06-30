@@ -27,12 +27,12 @@ This repository is your complete companion for understanding Python fundamentals
 | Status | Day | Topic | Difficulty | File |
 |--------|-----|-------|-----------|------|
 | 🔴 Done | **Day 1** | [Print, Variables, Data Types & Conditionals](#day-1-print-variables-data-types--conditionals) | 🟢 Easy | `Day1.py` |
-| ⚪ Upcoming | **Day 2** | [Loops & Iterations](#day-2-loops--iterations) | 🟡 Medium | `Day2.py` |
-| ⚪ Upcoming | **Day 3** | [Lists & Tuples](#day-3-lists--tuples) | 🟡 Medium | `Day3.py` |
-| ⚪ Upcoming | **Day 4** | [Dictionaries & Sets](#day-4-dictionaries--sets) | 🟡 Medium | `Day4.py` |
-| ⚪ Upcoming | **Day 5** | [Functions & Scope](#day-5-functions--scope) | 🟡 Medium | `Day5.py` |
-| ⚪ Upcoming | **Day 6** | [File Handling & Exceptions](#day-6-file-handling--exceptions) | 🔴 Hard | `Day6.py` |
-| ⚪ Upcoming | **Day 7** | [OOP Basics & Capstone Project](#day-7-oop-basics--capstone-project) | 🔴 Hard | `Day7.py` |
+| ⚪ Upcoming | **Day 2** | [Loops & Iterations, Lists & Tuples](#day-2-loops--iterations) | 🟡 Medium | `Day2.py` |
+| ⚪ Upcoming | **Day 3** | [Dictionaries & Sets, Functions & Scope](#day-3-lists--tuples) | 🟡 Medium | `Day3.py` |
+| ⚪ Upcoming | **Day 4** | [Recursion & BackTracking](#day-4-dictionaries--sets) | 🟡 Medium | `Day4.py` |
+| ⚪ Upcoming | **Day 5** | [File Handling & Exceptions](#day-5-functions--scope) | 🟡 Medium | `Day5.py` |
+| ⚪ Upcoming | **Day 6** | [Class & Objects](#day-6-file-handling--exceptions) | 🔴 Hard | `Day6.py` |
+| ⚪ Upcoming | **Day 7** | [OOPs](#day-7-oop-basics--capstone-project) | 🔴 Hard | `Day7.py` |
 
 ---
 
