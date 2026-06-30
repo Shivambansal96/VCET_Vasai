@@ -58,19 +58,6 @@ By the end of this 7-day intensive, you will be able to:
 - ✨ Basic logical thinking ability
 - ✨ Curiosity to learn and experiment! 🧠
 
-### 7-Day Syllabus at a Glance
-
-```
-WEEK 1                          
-Day 1: Print & Variables   ──┐      
-Day 2: Loops               ──┼──────► Python Fundamentals
-Day 3: Lists & Tuples      ──┤      
-Day 4: Dictionaries        ──┤      
-Day 5: Functions           ──┤      
-Day 6: File & Exceptions   ──┤      
-Day 7: OOP & Projects      ──┘      
-```
-
 ---
 
 ## 📖 How to Use This Repository
@@ -518,7 +505,7 @@ print(f"Grade: {grade}")
 - 📺 **Python Official Docs**: [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - 📖 **Real Python**: [Python Print Function](https://realpython.com/python-print/)
 - 📖 **W3Schools Python**: [Tutorial with Interactive Examples](https://www.w3schools.com/python/)
-- 🎥 **YouTube**: "Python Basics" - Code with Harry
+- 🎥 **YouTube**: "Python Basics" - Apna College
 - 💻 **Practice**: [HackerRank Python](https://www.hackerrank.com/domains/python)
 
 ---
@@ -722,13 +709,13 @@ len(text)           # length
 
 ## Data Types Comparison
 
-| Type | Example | Mutable | Ordered | Indexed |
-|------|---------|---------|---------|---------|
-| **String** | `"Hello"` | ❌ | ✅ | ✅ |
-| **List** | `[1, 2, 3]` | ✅ | ✅ | ✅ |
-| **Tuple** | `(1, 2, 3)` | ❌ | ✅ | ✅ |
-| **Dictionary** | `{"a": 1}` | ✅ | ✅* | ✅ (keys) |
-| **Set** | `{1, 2, 3}` | ✅ | ❌ | ❌ |
+|      Type      |    Example   | Mutable| Ordered | Indexed |
+|----------------|--------------|--------|---------|---------|
+|   **String**   |  `"Hello"`   |   ❌   |   ✅   |   ✅   |
+|    **List**    | `[1, 2, 3]`  |   ✅   |   ✅   |   ✅   |
+|   **Tuple**    | `(1, 2, 3)`  |   ❌   |   ✅   |   ✅   |
+| **Dictionary** | `{"a": 1}`   |   ✅   |   ✅   |   ✅   | (keys)
+|    **Set**     | `{1, 2, 3}`  |   ✅   |   ❌   |   ❌   |
 
 *Python 3.7+ maintains insertion order for dictionaries
 
